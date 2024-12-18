@@ -16,6 +16,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ImSEten/count.svg)
 
 ### My life
 ![](https://github-readme-stats.vercel.app/api?username=ImSEten&show_icons=true&theme=transparent)
-
-## 今年汇总 ✨
-![](https://github-readme-stats.vercel.app/api?username=ImSEten&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true")
